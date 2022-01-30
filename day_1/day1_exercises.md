@@ -13,12 +13,12 @@
 5. In your browser (Chrome), how do you view the source of a website?
   If you want to view the source code in Chrome you can hit `option + command + j`. This will pull up the Dev Tool where you can see the console and the elements of that web page.
 
-6. List five different HTML elements and what they are used for. For example, <p></p> is a paragraph element, and it is used to represent a paragraph of text.
-  * <b></b> is to make characters appear bold
-  * <i></i> is to make characters appear italics
-  * <br /> will break that element to start the rest on a new line
-  * <hr /> will break between themes and create a line across the space to separate the theme
-  * <abbr></abbr> is used for an abbreviation or an acronym
+6. List five different HTML elements and what they are used for. For example, ``<p></p>`` is a paragraph element, and it is used to represent a paragraph of text.
+  * ``<b></b>`` is to make characters appear bold
+  * ``<i></i>`` is to make characters appear italics
+  * ``<br />`` will break that element to start the rest on a new line
+  * ``<hr />`` will break between themes and create a line across the space to separate the theme
+  * ``<abbr></abbr>`` is used for an abbreviation or an acronym
 
 7. What are empty elements?
   Empty elements do not have words between the opening and closing tags. They usually only have one tag.
@@ -27,7 +27,7 @@
   Semantic Markup are some text elements that don't effect the visual nature or structure of your website but can add extra information to the pages that help SEO and other things.
 
 9. What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements.
-  Some new elements are <header> <footer> <nav> <article>
+  Some new elements are ``<header> <footer> <nav> <article>``
   These new elements make it easier to read and decipher what content you are putting and where.
 
 
